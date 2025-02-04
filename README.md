@@ -1,2 +1,2 @@
-# amorganr.github.io
+# Alfredo Morgan
 Creado como ejercicio de Codecademy
